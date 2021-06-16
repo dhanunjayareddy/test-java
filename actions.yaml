@@ -1,0 +1,5 @@
+name: build docker image
+description: build docker image
+inputs:
+  file: 
+    default: ./Dockerfile
